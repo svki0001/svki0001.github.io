@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "45b2616f81058983d301013afe7faac0",
+  "assets/AssetManifest.json": "4507e04fe594861e000ce6f74fe31599",
 "assets/assets/images/alignment/back_side_alignment.png": "cf33833e8ea652588a7720e6f392fd54",
 "assets/assets/images/alignment/front_side_alignment.png": "057110fc19e0fb8bb9553bf49bc4184d",
+"assets/assets/images/exposure/completed.png": "2445a369ef2e691b469133425fa64198",
 "assets/assets/images/exposureSettings/15%25C2%25B5m/1Prox70%25C2%25B5m50x.png": "34b77d21b74e0ab6573d757b92f60f1f",
 "assets/assets/images/exposureSettings/15%25C2%25B5m/1Softcontact50x.png": "31ee0ee3a7500dad83bf35c0136bf577",
 "assets/assets/images/exposureSettings/15%25C2%25B5m/2Hardcontact50x.png": "d64e4d4b93d764263f6eaa5a3b789dea",
@@ -70,6 +71,7 @@ const RESOURCES = {
 "assets/assets/images/Wafer_2.svg": "6bf6c9d389b5960a015194bfc39ea74f",
 "assets/assets/images/Wafer_3.svg": "310700d2dc3b0c1e8804896407c026cc",
 "assets/assets/images/Wafer_4.svg": "6d9c32ff195f70d7ac679bbc092eaa66",
+"assets/assets/videos/exposure/Belichtung.mp4": "c9f4d41e833052be4b754e4a2c9f2ab3",
 "assets/assets/videos/home/Simulation_Aufgabe.mp4": "7a2ea3ff600916e89c28d106b862d07d",
 "assets/assets/videos/insert_mask/Maskenhalter_raus.mp4": "088abd333633caf373e42e101994802d",
 "assets/assets/videos/insert_mask/Maskenhalter_rein.mp4": "452b768b33e825a634abdaa60f2a759e",
@@ -98,9 +100,9 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "5b221c4e95803ab79a6d6eec4984dc1f",
-"/": "5b221c4e95803ab79a6d6eec4984dc1f",
-"main.dart.js": "f24f425fe2df478103f4cde1a0f635a2",
+"index.html": "6d2455a862d60ebc53962030717d8a13",
+"/": "6d2455a862d60ebc53962030717d8a13",
+"main.dart.js": "ade5a7ea010870c56ecebef71e4d0580",
 "manifest.json": "294e60b526ec98fff925d84905a764a7",
 "version.json": "aa7352a938cba688d149860ca269a4c0"
 };
