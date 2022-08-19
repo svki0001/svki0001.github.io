@@ -73937,7 +73937,7 @@ s.Nf()},
 $S:6}
 A.Ls.prototype={
 F(a,b){var s=null,r=A.a([new A.e2(2,B.c3,B.bN,new A.l(2,4),4)],t.sq)
-return new A.yB(A.cG(A.c1(s,new A.Iv(A.bA("assets/images/exposure/completed.png",s,s,s),s),s,s,new A.eC(B.q,s,s,s,r,s,B.f3),s,s,s,s),s,s),A.aC(A.a([A.a4("Du hast die Simulation abgeschlossen!",s,s,s,A.ai().c,s,s),A.p(s,4,s),A.bc(),A.p(s,4,s),A.c_(s,s,B.G,!0,s,A.U(A.a([A.U(s,s,"Du kannst nun an den anderen Masken arbeiten, um den gesamten Herstellungsprozesses eines piezoresistiven Drucksensors durchzugehen.\n\nAuf folgender Seite sind alle Schritte der Simulation freigeschaltet. So kannst Du Dich in allen Arbeitsschirtten frei bewegen, nachlesen und ausprobieren.")],t.l),A.ai().y,s),B.E,s,s,1,B.D),A.p(s,24,s),A.aR(new A.a4W(),t.Yr)],t.p),B.x,B.j,B.i),new A.a4X(b),s)}}
+return new A.yB(A.cG(A.c1(s,new A.Iv(A.bA("assets/images/exposure/completed.png",s,s,s),s),s,s,new A.eC(B.q,s,s,s,r,s,B.f3),s,s,s,s),s,s),A.aC(A.a([A.a4("Du hast die Simulation abgeschlossen!",s,s,s,A.ai().c,s,s),A.p(s,4,s),A.bc(),A.p(s,4,s),A.c_(s,s,B.G,!0,s,A.U(A.a([A.U(s,s,"Du kannst nun an den anderen Masken arbeiten, um den gesamten Herstellungsprozesses eines piezoresistiven Drucksensors durchzugehen.\n\nAuf folgender Seite sind alle Schritte der Simulation freigeschaltet. So kannst Du Dich in allen Arbeitsschritten frei bewegen, nachlesen und nochmal ausprobieren.")],t.l),A.ai().y,s),B.E,s,s,1,B.D),A.p(s,24,s),A.aR(new A.a4W(),t.Yr)],t.p),B.x,B.j,B.i),new A.a4X(b),s)}}
 A.a4X.prototype={
 $0(){return A.ab(this.a,!1,t.T).qj()},
 $S:0}
