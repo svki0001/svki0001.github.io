@@ -59,7 +59,7 @@ const RESOURCES = {
 "assets/assets/images/rating/rating_4_filled.png": "f87f86b27fa50fa2aa0a455f7e04245c",
 "assets/assets/images/rating/rating_5_empty.png": "52a04c214191ef586a8699ae0c7c45ca",
 "assets/assets/images/rating/rating_5_filled.png": "0d8826173f1cb8178e677a0543088fff",
-"assets/assets/images/settings/formula.png": "c6bc1e1a4e7964b47c1b8a9bb1b306c2",
+"assets/assets/images/settings/formula.png": "1678269684dd511a11983c3843a90c7b",
 "assets/assets/images/settings/kavit%25C3%25A4ten.svg": "d1e71fdd3befbd4a192002c10f95a661",
 "assets/assets/images/settings/kavit%25C3%25A4ten_justage.svg": "ec6581d07c1cafc449eac6c97ff1f783",
 "assets/assets/images/settings/kontaktl%25C3%25B6cher.svg": "3f030b0b330d0221db0a066f56dea728",
@@ -115,9 +115,9 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "83e76a4e60b51f459317201230c83984",
-"/": "83e76a4e60b51f459317201230c83984",
-"main.dart.js": "11c241c17ab175fe07dc313453adda09",
+"index.html": "3b693a93ba4629c6945622709632abe4",
+"/": "3b693a93ba4629c6945622709632abe4",
+"main.dart.js": "e87c24ee6c656832b4e07f3172065e86",
 "manifest.json": "294e60b526ec98fff925d84905a764a7",
 "version.json": "aa7352a938cba688d149860ca269a4c0"
 };
