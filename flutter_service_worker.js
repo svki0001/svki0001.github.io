@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0c4104d506e880c62df6619bf598ff02",
+  "assets/AssetManifest.json": "985fee51cab13da89a163474295c45fb",
 "assets/assets/images/alignment/back_side_alignment.png": "cf33833e8ea652588a7720e6f392fd54",
 "assets/assets/images/alignment/front_side_alignment.png": "057110fc19e0fb8bb9553bf49bc4184d",
 "assets/assets/images/align_wafer/Mask1_Solution.png": "63b971484b800b8153be9bc13d1fdf07",
@@ -77,10 +77,11 @@ const RESOURCES = {
 "assets/assets/images/Wafer_3.svg": "86c7acd9dd947c55f84b945486d9b85f",
 "assets/assets/images/Wafer_4.svg": "92d028c99b906ed8935ad7f370d4399c",
 "assets/assets/videos/alignment/Backside.mp4": "24a0eef79197d6249b1f7b89c5c6c145",
+"assets/assets/videos/alignment/Frontside.mp4": "006bd6f92b8cbf9e5a054b3a459af71b",
 "assets/assets/videos/align_wafer/wafer_alignment.mp4": "b4811138ef2e08885aa35e2d586a072e",
 "assets/assets/videos/align_wafer/Wafer_Pfeiltasten.mp4": "20a9a77566fe2a13145dee7e66a76927",
 "assets/assets/videos/align_wafer/Wafer_Phi.mp4": "ba2ae0e2e0d72f26c967d70cfae50744",
-"assets/assets/videos/exposure/Belichtung.mp4": "c9f4d41e833052be4b754e4a2c9f2ab3",
+"assets/assets/videos/exposure/Exposure.mp4": "9300da66e378be79c9bd27b3aed6cd79",
 "assets/assets/videos/home/Simulation_Aufgabe.mp4": "7a2ea3ff600916e89c28d106b862d07d",
 "assets/assets/videos/insert_mask/Maskenhalter_raus.mp4": "088abd333633caf373e42e101994802d",
 "assets/assets/videos/insert_mask/Maskenhalter_rein.mp4": "452b768b33e825a634abdaa60f2a759e",
@@ -100,6 +101,9 @@ const RESOURCES = {
 "assets/assets/videos/precheck/Ready_ON.mp4": "06612939e14ded161434d4fd5a130ea6",
 "assets/assets/videos/search_marker/Maske_Fokus.mp4": "e29af64287696f78eb52d6810877045f",
 "assets/assets/videos/search_marker/Maske_Phi.mp4": "23cc136231eb24d8f9f579d37f122d2a",
+"assets/assets/videos/search_marker/Mikroskop_Ganz.mp4": "da27ede7199602f6bc45432bbdca4b8d",
+"assets/assets/videos/search_marker/Mikroskop_Links.mp4": "e358c7aa753c42e44f8778e129084874",
+"assets/assets/videos/search_marker/Mikroskop_Rechts.mp4": "4a92e947b63b6b07eb96b9c017ab069e",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "4e2b529694427f010a73630b1db6ad03",
@@ -111,9 +115,9 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a8851f8bea49232ea1a8eb499bfa0206",
-"/": "a8851f8bea49232ea1a8eb499bfa0206",
-"main.dart.js": "c02d7288edaffc471ab9548f757a5e91",
+"index.html": "c6ad35e0681d06ffbc911b28a8c7bfc9",
+"/": "c6ad35e0681d06ffbc911b28a8c7bfc9",
+"main.dart.js": "70a93803d0f03a186f030e3b4d009d2a",
 "manifest.json": "294e60b526ec98fff925d84905a764a7",
 "version.json": "aa7352a938cba688d149860ca269a4c0"
 };
