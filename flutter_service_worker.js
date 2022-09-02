@@ -99,7 +99,7 @@ const RESOURCES = {
 "assets/assets/videos/insert_mask/Maskenhalter_rein.mp4": "452b768b33e825a634abdaa60f2a759e",
 "assets/assets/videos/insert_mask/Maske_auflegen.mp4": "d8210ac18de6d54bbca7590836dbdf31",
 "assets/assets/videos/insert_mask/Maske_drehen_1.mp4": "2a4924291a526ee54a14382a5c14b49c",
-"assets/assets/videos/insert_mask/Maske_drehen_2.mp4": "919527341ada291e4fc95b53a393c6b1",
+"assets/assets/videos/insert_mask/Maske_drehen_2.mp4": "64907e607a13f4f02651ba8cf685724b",
 "assets/assets/videos/insert_mask/Vacuum_ON.mp4": "b39601ccdced1bebd7a8ae530017dc47",
 "assets/assets/videos/insert_wafer/Dreher_einstellen.mp4": "782af580b548d881dcdf251c2efde477",
 "assets/assets/videos/insert_wafer/Maske_hoch.mp4": "e7764cd8e9bce096dd437349aea27efd",
@@ -127,9 +127,9 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "cd8d7fbcc23099fad79c0c413103970d",
-"/": "cd8d7fbcc23099fad79c0c413103970d",
-"main.dart.js": "64d4e7d1e35b36f4d7eba60241cb6b3f",
+"index.html": "94730401a78bf2add2cef3f1f19d56a2",
+"/": "94730401a78bf2add2cef3f1f19d56a2",
+"main.dart.js": "4437ee28afc451120cb5676f3b1e7b95",
 "manifest.json": "294e60b526ec98fff925d84905a764a7",
 "version.json": "aa7352a938cba688d149860ca269a4c0"
 };
