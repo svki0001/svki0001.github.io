@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "48127a90cc2fb0b1e9facec0a1bbc233",
+  "assets/AssetManifest.json": "bc10def6f0eacfe2e90b78840fe1c64b",
 "assets/assets/images/alignment/back_side_alignment.png": "cf33833e8ea652588a7720e6f392fd54",
 "assets/assets/images/alignment/front_side_alignment.png": "057110fc19e0fb8bb9553bf49bc4184d",
 "assets/assets/images/align_wafer/Mask1_Solution.png": "63b971484b800b8153be9bc13d1fdf07",
@@ -111,6 +111,9 @@ const RESOURCES = {
 "assets/assets/videos/precheck/Netzteil_ON.mp4": "654625fdc1481b2178ac2743b5403191",
 "assets/assets/videos/precheck/precheck_preview.mp4": "581ee1d2896654e28dccdaed486724c6",
 "assets/assets/videos/precheck/Ready_ON.mp4": "06612939e14ded161434d4fd5a130ea6",
+"assets/assets/videos/search_marker/Kamera_Ganz.mp4": "71e77d3ca0c61fbd0d7a522be4716b58",
+"assets/assets/videos/search_marker/Kamera_Links.mp4": "6d417229dd30e1686d76f4dbfaadd4bb",
+"assets/assets/videos/search_marker/Kamera_Rechts.mp4": "28f407e22bdf6fdcf86bc15cb9c23f56",
 "assets/assets/videos/search_marker/Maske_Fokus.mp4": "e29af64287696f78eb52d6810877045f",
 "assets/assets/videos/search_marker/Maske_Phi.mp4": "23cc136231eb24d8f9f579d37f122d2a",
 "assets/assets/videos/search_marker/Mikroskop_Ganz.mp4": "da27ede7199602f6bc45432bbdca4b8d",
@@ -127,9 +130,9 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a7a4ee712de3cacc466b343d2387489a",
-"/": "a7a4ee712de3cacc466b343d2387489a",
-"main.dart.js": "39a38b4018e71216fce2fbfc08ff037f",
+"index.html": "2f831e9dfb1d41ff88023d4741ddbdb8",
+"/": "2f831e9dfb1d41ff88023d4741ddbdb8",
+"main.dart.js": "55ed8aae40b1c272cd69317d08843603",
 "manifest.json": "294e60b526ec98fff925d84905a764a7",
 "version.json": "aa7352a938cba688d149860ca269a4c0"
 };
