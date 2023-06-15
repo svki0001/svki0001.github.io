@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 743 978" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Mask-Aligner" serif:id="Mask Aligner" transform="matrix(1,0,0,1,-134.371,-84.9569)">
+        <g id="Lichtkasten" transform="matrix(1,0,0,1,6.25278e-13,40.4025)">
+            <g transform="matrix(2.56384,0,0,2.23891,-95.8576,-620.744)">
+                <path d="M313.833,345.066C313.833,342.626 312.103,340.644 309.972,340.644L221.157,340.644C219.026,340.644 217.296,342.626 217.296,345.066L217.296,482.448C217.296,484.888 219.026,486.87 221.157,486.87L309.972,486.87C312.103,486.87 313.833,484.888 313.833,482.448L313.833,345.066Z" style="fill:url(#_Linear1);"/>
+            </g>
+            <g transform="matrix(0.763638,0,0,0.570141,-423.686,224.432)">
+                <path d="M1549.44,618.817L1091.93,618.817L1158.85,410.858L1482.53,410.858L1549.44,618.817Z" style="fill:url(#_Linear2);"/>
+            </g>
+        </g>
+        <g id="Substrathalter" transform="matrix(1,0,0,0.816177,-102.038,225.901)">
+            <rect x="512.195" y="634.968" width="349.371" height="47.137"/>
+        </g>
+        <g id="Maskenhalter" transform="matrix(1,0,0,1,3.97904e-13,30.0692)">
+            <g transform="matrix(1,0,0,0.816177,-102.038,87.752)">
+                <rect x="512.195" y="634.968" width="349.371" height="47.137"/>
+            </g>
+            <g transform="matrix(0.734603,0,0,0.816177,80.2575,87.752)">
+                <rect x="512.195" y="634.968" width="349.371" height="47.137" style="fill:rgb(82,80,79);"/>
+            </g>
+        </g>
+        <g id="Wafer" transform="matrix(1,0,0,1,1.13687e-13,-9.49554)">
+            <g transform="matrix(1,0,0,0.681233,-101.345,321.082)">
+                <rect x="531.605" y="621.104" width="309.166" height="13.864" style="fill:rgb(118,115,114);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.312134,-101.345,546.003)">
+                <rect x="531.605" y="621.104" width="309.166" height="13.864" style="fill:rgb(195,54,65);"/>
+            </g>
+        </g>
+        <g id="Maske" transform="matrix(1,0,0,1,-2.21823,84.399)">
+            <g transform="matrix(-1,-1.22465e-16,8.3427e-17,-0.681233,1273.25,1022.7)">
+                <rect x="531.605" y="621.104" width="309.166" height="13.864" style="fill:rgb(163,161,163);"/>
+            </g>
+            <g transform="matrix(-0.304837,-3.73317e-17,3.82254e-17,-0.312134,688.775,797.78)">
+                <rect x="531.605" y="621.104" width="309.166" height="13.864" style="fill:rgb(140,115,107);"/>
+            </g>
+            <g transform="matrix(-0.304837,-3.73317e-17,3.82254e-17,-0.312134,903.696,797.78)">
+                <rect x="531.605" y="621.104" width="309.166" height="13.864" style="fill:rgb(140,115,107);"/>
+            </g>
+            <g transform="matrix(-0.235621,-2.88553e-17,3.82254e-17,-0.312134,748.741,797.78)">
+                <rect x="531.605" y="621.104" width="309.166" height="13.864" style="fill:rgb(140,115,107);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.05237,145.041)">
+            <g id="Objektiv" transform="matrix(1,0,0,1,25.1379,-3.36889)">
+                <g transform="matrix(1,0,0,0.714623,-10.6475,69.1651)">
+                    <rect x="461.215" y="323.203" width="55.012" height="108.249" style="fill:url(#_Linear3);"/>
+                </g>
+                <g transform="matrix(-0.576507,-7.06018e-17,5.86852e-17,-0.479201,742.038,619.537)">
+                    <path d="M505.58,499.774L410.157,499.774L434.012,461.62L481.724,461.62L505.58,499.774Z" style="fill:url(#_Linear4);"/>
+                </g>
+                <g transform="matrix(0.177937,0,0,0.312134,355.975,183.623)">
+                    <path d="M840.77,628.036C840.77,624.21 835.322,621.104 828.61,621.104L543.765,621.104C537.053,621.104 531.605,624.21 531.605,628.036C531.605,631.862 537.053,634.968 543.765,634.968L828.61,634.968C835.322,634.968 840.77,631.862 840.77,628.036Z" style="fill:url(#_Linear5);"/>
+                </g>
+            </g>
+            <g id="Objektiv1" serif:id="Objektiv" transform="matrix(1,0,0,1,192.836,-3.36889)">
+                <g transform="matrix(1,0,0,0.714623,-10.6475,69.1651)">
+                    <rect x="461.215" y="323.203" width="55.012" height="108.249" style="fill:url(#_Linear6);"/>
+                </g>
+                <g transform="matrix(-0.576507,-7.06018e-17,5.86852e-17,-0.479201,742.038,619.537)">
+                    <path d="M505.58,499.774L410.157,499.774L434.012,461.62L481.724,461.62L505.58,499.774Z" style="fill:url(#_Linear7);"/>
+                </g>
+                <g transform="matrix(0.177937,0,0,0.312134,355.975,183.623)">
+                    <path d="M840.77,628.036C840.77,624.21 835.322,621.104 828.61,621.104L543.765,621.104C537.053,621.104 531.605,624.21 531.605,628.036C531.605,631.862 537.053,634.968 543.765,634.968L828.61,634.968C835.322,634.968 840.77,631.862 840.77,628.036Z" style="fill:url(#_Linear8);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.955705,0,0,0.643582,84.1565,53.352)">
+                <path d="M708.994,252.248C708.994,246.202 705.689,241.294 701.618,241.294L350.807,241.294C346.736,241.294 343.431,246.202 343.431,252.248L343.431,367.261C343.431,373.307 346.736,378.215 350.807,378.215L701.618,378.215C705.689,378.215 708.994,373.307 708.994,367.261L708.994,252.248Z"/>
+            </g>
+            <g transform="matrix(0.379249,0,0,0.572704,387.495,-7.96045)">
+                <path d="M708.994,252.248C708.994,246.202 701.582,241.294 692.453,241.294L359.972,241.294C350.842,241.294 343.431,246.202 343.431,252.248L343.431,367.261C343.431,373.307 350.842,378.215 359.972,378.215L692.453,378.215C701.582,378.215 708.994,373.307 708.994,367.261L708.994,252.248Z"/>
+            </g>
+            <g transform="matrix(1.53615,0,0,0.436694,131.217,65.7214)">
+                <path d="M388.801,334.155L204.688,334.155L250.717,251.952L342.773,251.952L388.801,334.155Z"/>
+            </g>
+        </g>
+        <g id="Kameras">
+            <g id="Kamera" transform="matrix(1.29931,0,0,1.29931,-132.085,-247.475)">
+                <g transform="matrix(0.5,0,0,0.714623,242.88,595.84)">
+                    <path d="M516.227,326.282C516.227,324.583 514.255,323.203 511.826,323.203L465.616,323.203C463.187,323.203 461.215,324.583 461.215,326.282L461.215,428.373C461.215,430.073 463.187,431.452 465.616,431.452L511.826,431.452C514.255,431.452 516.227,430.073 516.227,428.373L516.227,326.282Z" style="fill:url(#_Linear9);"/>
+                </g>
+                <g transform="matrix(1.31724,0,0,1.31724,-154.57,-288.43)">
+                    <g transform="matrix(1,0,0,1,0.454823,-2.03915)">
+                        <circle cx="486.785" cy="897.344" r="4.333"/>
+                    </g>
+                    <g transform="matrix(0.858648,0,0,0.884348,69.263,101.74)">
+                        <circle cx="486.785" cy="897.344" r="4.333" style="fill:url(#_Linear10);"/>
+                    </g>
+                    <g transform="matrix(1.58383,0,0,1.63124,-283.747,-565.561)">
+                        <circle cx="486.787" cy="895.558" r="2.349"/>
+                        <clipPath id="_clip11">
+                            <circle cx="486.787" cy="895.558" r="2.349"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip11)">
+                            <g transform="matrix(1.73573,0,0,1.85148,-801.752,-1232.72)">
+                                <use xlink:href="#_Image12" x="739" y="1147" width="6px" height="5px"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Kamera1" serif:id="Kamera" transform="matrix(1.29931,0,0,1.29931,29.4313,-247.475)">
+                <g transform="matrix(0.5,0,0,0.714623,247.638,595.84)">
+                    <path d="M516.227,326.282C516.227,324.583 514.255,323.203 511.826,323.203L465.616,323.203C463.187,323.203 461.215,324.583 461.215,326.282L461.215,428.373C461.215,430.073 463.187,431.452 465.616,431.452L511.826,431.452C514.255,431.452 516.227,430.073 516.227,428.373L516.227,326.282Z" style="fill:url(#_Linear13);"/>
+                </g>
+                <g transform="matrix(1.31724,0,0,1.31724,-149.812,-288.43)">
+                    <g transform="matrix(1,0,0,1,0.454823,-2.03915)">
+                        <circle cx="486.785" cy="897.344" r="4.333"/>
+                    </g>
+                    <g transform="matrix(0.858648,0,0,0.884348,69.263,101.74)">
+                        <circle cx="486.785" cy="897.344" r="4.333" style="fill:url(#_Linear14);"/>
+                    </g>
+                    <g transform="matrix(1.58383,0,0,1.63124,-283.747,-565.561)">
+                        <circle cx="486.787" cy="895.558" r="2.349"/>
+                        <clipPath id="_clip15">
+                            <circle cx="486.787" cy="895.558" r="2.349"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip15)">
+                            <g transform="matrix(1.73573,0,0,1.85148,-801.752,-1232.72)">
+                                <use xlink:href="#_Image12" x="739" y="1147" width="6px" height="5px"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Labels" transform="matrix(1,0,0,1,73.4786,33.7323)">
+            <g transform="matrix(1.02352,0.0235245,0.0235245,1.02352,-84.7081,-44.9618)">
+                <path d="M410.322,353.685L266.995,210.358" style="fill:none;stroke:black;stroke-width:1.91px;"/>
+            </g>
+            <g transform="matrix(1.02352,0.0235245,0.0235245,1.02352,-84.7081,236.475)">
+                <path d="M410.322,353.685L266.995,210.358" style="fill:none;stroke:black;stroke-width:1.91px;"/>
+            </g>
+            <g transform="matrix(-0.126405,-0.873595,0.873595,0.126405,104.659,958.973)">
+                <path d="M410.322,353.685L266.995,210.358" style="fill:none;stroke:black;stroke-width:2.68px;"/>
+            </g>
+            <g transform="matrix(-0.781476,0.0606566,0.443268,-0.64645,607.684,1096.03)">
+                <path d="M410.322,353.685L266.995,210.358" style="fill:none;stroke:black;stroke-width:4.18px;"/>
+            </g>
+            <g transform="matrix(-0.443268,-0.64645,0.781476,0.0606566,484.44,1136.08)">
+                <path d="M410.322,353.685L266.995,210.358" style="fill:none;stroke:black;stroke-width:4.18px;"/>
+            </g>
+            <g transform="matrix(0.126405,0.873595,-0.873595,-0.126405,916.86,391.512)">
+                <path d="M410.322,353.685L266.995,210.358" style="fill:none;stroke:black;stroke-width:2.68px;"/>
+            </g>
+            <g transform="matrix(0.0828774,0.917123,-0.917123,-0.0828774,879.364,-142.479)">
+                <path d="M410.322,353.685L266.995,210.358" style="fill:none;stroke:black;stroke-width:2.4px;"/>
+            </g>
+            <g transform="matrix(1.8727,0,0,1.8727,-838.51,-55.9482)">
+                <text x="779.924px" y="65.819px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Belichtungskasten</text>
+            </g>
+            <g transform="matrix(1.8727,0,0,1.8727,-1401.03,11.9849)">
+                <text x="823.62px" y="65.819px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Mikroskop</text>
+                <text x="779.924px" y="78.212px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">(für die Oberseitenjustage)</text>
+            </g>
+            <g transform="matrix(1.8727,0,0,1.8727,-1333.39,322.259)">
+                <text x="779.924px" y="65.819px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Maskenhalter</text>
+            </g>
+            <g transform="matrix(1.8727,0,0,1.8727,-1248.5,654.992)">
+                <text x="779.924px" y="65.819px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Maske</text>
+            </g>
+            <g transform="matrix(1.8727,0,0,1.8727,-717.073,464.225)">
+                <text x="779.924px" y="65.819px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">W<tspan x="790.805px 797.478px " y="65.819px 65.819px ">af</tspan>er</text>
+            </g>
+            <g transform="matrix(1.8727,0,0,1.8727,-1063.49,877.58)">
+                <text x="818.941px" y="65.819px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Kameras</text>
+                <text x="771.583px" y="78.212px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">(für die Rückseitenjustage)</text>
+            </g>
+            <g transform="matrix(1.8727,0,0,1.8727,-838.51,-55.9482)">
+                <text x="779.924px" y="65.819px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Belichtungskasten</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(8.22498e-15,-146.225,11.1183,7.41121e-16,265.565,486.87)"><stop offset="0" style="stop-color:rgb(65,64,65);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(127,125,127);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.62871e-13,207.959,-52.692,-7.40323e-14,1320.69,410.858)"><stop offset="0" style="stop-color:rgb(65,64,65);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(127,125,127);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(55.012,0,0,108.249,461.215,377.328)"><stop offset="0" style="stop-color:rgb(114,112,114);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(163,161,163);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(95.4229,0,0,38.1535,410.157,480.697)"><stop offset="0" style="stop-color:rgb(114,112,114);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(163,161,163);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear5" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(309.166,0,0,13.8639,531.605,628.036)"><stop offset="0" style="stop-color:rgb(193,0,0);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(195,54,65);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear6" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(55.012,0,0,108.249,461.215,377.328)"><stop offset="0" style="stop-color:rgb(114,112,114);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(163,161,163);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear7" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(95.4229,0,0,38.1535,410.157,480.697)"><stop offset="0" style="stop-color:rgb(114,112,114);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(163,161,163);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear8" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(309.166,0,0,13.8639,531.605,628.036)"><stop offset="0" style="stop-color:rgb(193,0,0);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(195,54,65);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear9" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(9.47357e-15,108.249,-435.119,1.86415e-14,488.721,323.203)"><stop offset="0" style="stop-color:rgb(114,112,114);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(163,161,163);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear10" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(8.66641,0,0,8.66641,482.452,897.344)"><stop offset="0" style="stop-color:rgb(59,59,59);stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></linearGradient>
+        <image id="_Image12" width="6px" height="5px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAFCAYAAABmWJ3mAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAUUlEQVQImWNgwAGYYQw5GTVvMQ6JOEP2v4fuf//+n4WBgYFBXl6ej4uJeR030x+2/18YzjMwMKxjgWr4z8jA+Pg/A8srRgaGI7iMZ2BgYGAAACbVEUt7Cl6HAAAAAElFTkSuQmCC"/>
+        <linearGradient id="_Linear13" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(9.47357e-15,108.249,-435.119,1.86415e-14,488.721,323.203)"><stop offset="0" style="stop-color:rgb(114,112,114);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(163,161,163);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear14" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(8.66641,0,0,8.66641,482.452,897.344)"><stop offset="0" style="stop-color:rgb(59,59,59);stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
